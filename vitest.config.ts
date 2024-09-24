@@ -4,7 +4,9 @@ export default defineConfig({
   plugins: [],
   test: {
     coverage: {
-      provider: 'istanbul',
+      provider: 'v8',
+      include: ['src/**/*.ts'],
+      exclude: ['src/**/*.spec.ts'],
     },
   },
 });

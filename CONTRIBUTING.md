@@ -1,5 +1,16 @@
 # Contributor Covenant Code of Conduct
 
+When contributing to this repository, please note we have a code of conduct;
+please follow it in all your interactions with the project.
+
+## Pull Request Process
+
+1. Ensure all unit tests pass. Add more unit tests if applicable.
+2. Update the README.md with details of change if applicable.
+3. Give maintainers some time to review the changes.
+
+## Code of Conduct
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our

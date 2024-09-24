@@ -1,18 +1,18 @@
-# project
+# my-project
 
-[![NPM Link](https://badgen.net/npm/v/project?v=0.9.0)](https://npmjs.com/package/project)
-[![Language](https://badgen.net/static/language/TS?v=0.9.0)](https://github.com/search?q=repo:kensnyder/project++language:TypeScript&type=code)
-[![Build Status](https://github.com/kensnyder/project/actions/workflows/workflow.yml/badge.svg?v=0.9.0)](https://github.com/kensnyder/project/actions)
-[![Code Coverage](https://codecov.io/gh/kensnyder/project/branch/main/graph/badge.svg?v=0.9.0)](https://codecov.io/gh/kensnyder/project)
-[![Gzipped Size](https://badgen.net/bundlephobia/minzip/project?label=minzipped&v=0.9.0)](https://bundlephobia.com/package/project@0.9.0)
-[![Dependency details](https://badgen.net/bundlephobia/dependency-count/project?v=0.9.0)](https://www.npmjs.com/package/project?activeTab=dependencies)
-[![Tree shakeable](https://badgen.net/bundlephobia/tree-shaking/project?v=0.9.0)](https://www.npmjs.com/package/project)
-[![ISC License](https://badgen.net/github/license/kensnyder/project?v=0.9.0)](https://opensource.org/licenses/ISC)
+[![NPM Link](https://badgen.net/npm/v/my-project?v=0.9.0)](https://npmjs.com/package/my-project)
+[![Language](https://badgen.net/static/language/TS?v=0.9.0)](https://github.com/search?q=repo:kensnyder/my-project++language:TypeScript&type=code)
+[![Build Status](https://github.com/kensnyder/my-project/actions/workflows/workflow.yml/badge.svg?v=0.9.0)](https://github.com/kensnyder/my-project/actions)
+[![Code Coverage](https://codecov.io/gh/kensnyder/my-project/branch/main/graph/badge.svg?v=0.9.0)](https://codecov.io/gh/kensnyder/my-project)
+[![Gzipped Size](https://badgen.net/bundlephobia/minzip/my-project?label=minzipped&v=0.9.0)](https://bundlephobia.com/package/my-project@0.9.0)
+[![Dependency details](https://badgen.net/bundlephobia/dependency-count/my-project?v=0.9.0)](https://www.npmjs.com/package/my-project?activeTab=dependencies)
+[![Tree shakeable](https://badgen.net/bundlephobia/tree-shaking/my-project?v=0.9.0)](https://www.npmjs.com/package/my-project)
+[![ISC License](https://badgen.net/github/license/kensnyder/my-project?v=0.9.0)](https://opensource.org/licenses/ISC)
 
-project does what project does
+my-project does what a project does
 
 ```bash
-npm install project
+npm install my-project
 ```
 
 ## Table of contents
